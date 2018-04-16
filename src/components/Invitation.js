@@ -13,4 +13,4 @@ render() {
 
 }
 
-export default Invitation
+export default Invitation;
